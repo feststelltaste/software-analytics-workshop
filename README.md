@@ -6,9 +6,9 @@ Interactive tutorials for introducing new people to the world of Software Analyt
 
 You find the following content in this repository:
 
-* `datasets`: various data from software systems or the like that is getting to be analyzed
-* `exercises`: a collection of challenges you can tackle one you know enough about Software Analytics
-* `tutorial`: a self-study tutorial that introduces you to the art of Software Analytics
+* `datasets`: various data from software systems or the like that is going to be analyzed
+* `exercises`: a collection of challenges you can tackle once you know enough about Software Analytics
+* `tutorial`: a self-study tutorial that introduces you to the art of Software Analytics with Data Science tooling
 
 ## Starting the Engine
 
