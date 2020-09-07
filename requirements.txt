@@ -3,6 +3,7 @@
 pandas
 matplotlib
 pygal
+py2neo
 # experimental libraries for importing and visualizing software data
 git+git://github.com/feststelltaste/ozapfdis.git
 git+git://github.com/feststelltaste/ausi.git
