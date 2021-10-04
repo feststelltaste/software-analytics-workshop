@@ -14,7 +14,7 @@ You find the following content in this repository:
 ## Starting the Engine
 
 * Local install: You can clone this repository to your local machine and use your favorite Python distribution
-* Online execution: You can click on the following button which creates an online environment without any installation efforts: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/feststelltaste/software-analytics-workshop)
+* Online execution: You can click on the following button which creates an online environment without any installation efforts: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/repo/feststelltaste/software-analytics-workshop/HEAD?urlpath=%2Fnotebooks%2F)
 
 ## Remote Workshop
 
