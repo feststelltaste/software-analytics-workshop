@@ -11,6 +11,10 @@ You find the following content in this repository:
 * `exercises`: a collection of challenges you can tackle once you know enough about Software Analytics
 * `tutorial`: a self-study tutorial that introduces you to the art of Software Analytics with Data Science tooling
 
+## Slides
+
+* You can find the slides of this workshop on [Speakerdeck](https://speakerdeck.com/feststelltaste/software-analytics-data-driven-improvement-of-software-quality).
+
 ## Starting the Engine
 
 * Local install: You can clone this repository to your local machine and use your favorite Python distribution
